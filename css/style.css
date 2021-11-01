@@ -1,0 +1,10 @@
+button {
+    margin: 1rem;
+}
+.contMateria {
+    border: 1px solid rgb(223, 221, 221);
+    padding: 1rem;
+}
+.error{
+    color: red;
+}
